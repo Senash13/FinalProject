@@ -81,3 +81,6 @@ The `tkinter` library is used to provide a simple yet functional GUI. The interf
 ### Error Handling
 The application includes error handling to manage invalid inputs and operations gracefully. This ensures a smooth user experience and prevents crashes due to incorrect data.
 
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
